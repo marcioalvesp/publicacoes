@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Área de Teste"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-43.9415, -19.9320],
+              [-43.9415, -19.9350],
+              [-43.9370, -19.9350],
+              [-43.9370, -19.9320],
+              [-43.9415, -19.9320]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
