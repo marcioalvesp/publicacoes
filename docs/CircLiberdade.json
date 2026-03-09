@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circuito Liberdade - Belo Horizonte",
+        "description": "Exemplo de polígono estilizado para teste",
+        "fill": "#99004f",
+        "fill-opacity": 0.2,
+        "stroke": "#001a4d",
+        "stroke-width": 1,
+        "marker-color": "#ff5050",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.9415, -19.9320],
+            [-43.9370, -19.9320],
+            [-43.9370, -19.9350],
+            [-43.9415, -19.9350],
+            [-43.9415, -19.9320]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponto Central (Praça)",
+        "marker-color": "#cc2e2e",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.9392, -19.9333]
+      }
+    }
+  ]
+}
