@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circuito Liberdade - Belo Horizonte",
+        "description": "Exemplo de polígono para teste"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.9415, -19.9320],
+            [-43.9415, -19.9350],
+            [-43.9370, -19.9350],
+            [-43.9370, -19.9320],
+            [-43.9415, -19.9320]
+          ]
+        ]
+      }
+    }
+  ]
+}

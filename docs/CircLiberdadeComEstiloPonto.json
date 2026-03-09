@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponto Central (Praça)",
+        "marker-color": "#cc2e2e",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.9392, -19.9333]
+      }
+    }
+  ]
+}

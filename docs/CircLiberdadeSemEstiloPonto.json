@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponto Central (Praça)",
+        "description": "Marco central do polígono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.9392, -19.9333]
+      }
+    }
+  ]
+}
